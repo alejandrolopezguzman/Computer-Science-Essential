@@ -1,0 +1,8 @@
+
+print("Welcome to the simple calculator.")
+print("This calculator adds two numbers supplied by the user.")
+x=input("Input the first number  ")
+y=int(input("Input the second number  "))
+xx=int(x)
+#yy=int(y)
+print(xx+y)
