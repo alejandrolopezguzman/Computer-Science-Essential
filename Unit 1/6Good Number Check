@@ -1,0 +1,16 @@
+print("This program tests your ability to add numbers together to create the best number")
+x=int(input("What's the first number"))
+y=int(input("What's the second number"))
+#xx=int(x)
+#yy=int(y)
+z=(x+y)
+print (z)
+if (z==69):
+    print (z)
+    print (z)
+    print("Good job, you did it")
+    print (z)
+    print (z)
+    print (z)
+else:
+    print("Incorrect, either add better or choose the actual best number")
